@@ -1,4 +1,4 @@
-#include <stdio.h>
+
 
 void array_reverse(unsigned int array[], int length) {
 
@@ -66,11 +66,11 @@ int main() {
 //           arr[0], arr[1], arr[2], arr[3], *ptr);
 
 
-    int a[4] = {-1, 3, -27};
-    map(pow2,a,3);
-    for (int i = 0; i < 3; ++i) {
-        printf("%d\n", a[i]);
-    }
+//    int a[4] = {-1, 3, -27};
+//    map(pow2,a,3);
+//    for (int i = 0; i < 3; ++i) {
+//        printf("%d\n", a[i]);
+//    }
 
 
     return 0;
